@@ -43,4 +43,4 @@ ScreenShots:
 
 <img width="959" alt="Server (1)" src="https://github.com/deepak-ks-sde/JSONPOWERDB/assets/101627261/d1b362cd-f040-40b5-a1bf-41c95c3326b5">
 
-![Screenshot (249)](https://github.com/deepak-ks-sde/JSONPOWERDB/assets/101627261/998b2ee8-bf89-4afe-8898-b28768cc39df)
+![Screenshot (250)](https://github.com/deepak-ks-sde/JSONPOWERDB/assets/101627261/faa408e5-8b10-4f14-81df-fa3ee9368030)
