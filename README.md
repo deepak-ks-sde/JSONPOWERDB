@@ -25,4 +25,5 @@ ScreenShots:
 
 <img width="959" alt="Server" src="https://github.com/deepak-ks-sde/JSONPOWERDB/assets/101627261/15786993-26c7-45cd-a3ee-65dbe2e5e441">
 
-<img width="448" alt="Index" src="https://github.com/deepak-ks-sde/JSONPOWERDB/assets/101627261/d41374f6-d0bb-4678-bacb-259e0c9be76b">
+<img width="959" alt="Server (1)" src="https://github.com/deepak-ks-sde/JSONPOWERDB/assets/101627261/d1b362cd-f040-40b5-a1bf-41c95c3326b5">
+
