@@ -1,4 +1,3 @@
-![Screenshot (248)](https://github.com/deepak-ks-sde/JSONPOWERDB/assets/101627261/7c42b35b-159c-4837-b5f7-174f53cce7c0)
 You can fork it. But before that, please give a star (It's totally free).
 
 http://login2explore.com/jpdb/docs.html
@@ -44,4 +43,4 @@ ScreenShots:
 
 <img width="959" alt="Server (1)" src="https://github.com/deepak-ks-sde/JSONPOWERDB/assets/101627261/d1b362cd-f040-40b5-a1bf-41c95c3326b5">
 
-![Screenshot (248)](https://github.com/deepak-ks-sde/JSONPOWERDB/assets/101627261/7787e711-ee9d-45d8-bb45-f22047581606)
+![Screenshot (249)](https://github.com/deepak-ks-sde/JSONPOWERDB/assets/101627261/998b2ee8-bf89-4afe-8898-b28768cc39df)
