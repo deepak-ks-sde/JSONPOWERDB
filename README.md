@@ -22,18 +22,24 @@ It helps developers in faster coding, in-turn reduces development cost.
 
 Release History:
 
-0.2.1
-CHANGE: Update docs (module code remains unchanged)
-0.2.0
-CHANGE: Remove setDefaultXYZ()
-ADD: Add init()
-0.1.1
-FIX: Crash when calling baz() (Thanks @GenerousContributorName!)
-0.1.0
-The first proper release
-CHANGE: Rename foo() to bar()
-0.0.1
-Work in progress
+0.3.2 / 2023-11-03
+==================
+* Completed the User's Database Replication via pluggable API with the Phase-2 and Phase-3 implementation of replication machanism.
+* Added a Javascript client side library "jpdb-rcs-commons.js" to manage the user database replication.
+* Added replication management page in Replica Manager Dashboard.
+* Added : 'in’, ’!in’, ‘between’ operator for condition in select command - for both indexed and non-indexed columns.
+* Added :  functionality for enable / disable of user registration page from Company dashboard settings page.
+* Added : functionality for Optimization of RAM from Company Dashboard.
+* Added : Improved performance and fixed issue of character-set while uploading CSV / Json data.
+* Added NEW serverless pluggable API for stastical analysis functions.
+* Improved : INDEX_COLUMN and UNINDEX_COLUMN to allow more than one column in the respective operations.
+* Improved : Backend-support for automatic logout in real-time of user from user dashboard, in case if user logout from one tab in a browser or a user gets suspended from company dashboard by admin.
+* Improved : Check RAM warnings. Warning check implemented for /api, /kvp, /jpdb at the end of respective api's after methods returning %usage of ram in the response header.
+* Improved: Documentation
+* Improved: Load the default config properties and save it automatically while plugin the API.
+* Fixed: Various small bugs are fixed.
+* Fixed : When memory is exhausted is fixed by handling this exception and returning proper response. 
+  Work in progress
 
 ScreenShots:
 
